@@ -5,11 +5,12 @@
 Buat program untuk menampilkan pola segitiga angka:
 
 ```
-1
-12
-123
-1234
-12345
+    1
+   121
+  12321
+ 1234321
+123454321
+
 ```
 
 * Gunakan **nested for loop**
